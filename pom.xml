@@ -35,9 +35,9 @@
 	</parent>
 
 	<scm>
-		<url>https://github.com/wso2/shared-analytics.git</url>
-		<developerConnection>scm:git:https://github.com/wso2/shared-analytics.git</developerConnection>
-		<connection>scm:git:https://github.com/wso2/shared-analytics.git</connection>
+		<url>https://github.com/ksdperera/shared-analytics.git</url>
+		<developerConnection>scm:git:https://github.com/ksdperera/shared-analytics.git</developerConnection>
+		<connection>scm:git:https://github.com/ksdperera/shared-analytics.git</connection>
 		<tag>HEAD</tag>
 	</scm>
 
